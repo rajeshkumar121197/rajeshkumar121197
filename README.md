@@ -6,19 +6,29 @@ Welcome to my GitHub! I'm a passionate data professional with a solid foundation
 🚀 About Me
 
 🔍 Skilled in Python, SQL, Advanced Excel, Power BI, and data visualization techniques.
+
 🧠 Experienced in data cleaning, exploratory data analysis (EDA), and building machine learning models.
+
 📈 Proficient in using tools like Matplotlib, Seaborn, and Tableau to present actionable insights.
+
 🔧 Hands-on experience in creating data pipelines, dashboards, and performing statistical analyses.
+
 🌱 Always learning and improving my skills in data science and analytics.
 
 🔑 Core Competencies
 
 ✔ Data Analysis & Problem-Solving
+
 ✔ Data Cleaning & Preprocessing
+
 ✔ Statistical Modeling & Machine Learning
+
 ✔ Data Visualization & Reporting
+
 ✔ Hypothesis Testing & Business Insights
+
 ✔ Database Management & SQL Queries
+
 ✔ Dashboard Creation (Power BI/Tableau)
 
 💼 Professional Experience
@@ -39,23 +49,27 @@ Developed insightful reports using Excel and PowerPoint for performance evaluati
 Developed an interactive Power BI dashboard to analyze Airbnb pricing trends across Europe.
 Used Python for data preprocessing, feature engineering, and normalization.
 Presented findings with actionable insights for market competitiveness and strategy planning.
-GitHub Repository
+GitHub Repository:https://github.com/rajeshkumar121197/B41_DA_014_Stat_Seekers
 
 🛠 Technical Skills
 
 Programming Languages: Python
+
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+
 Database Management: MySQL, PostgreSQL
+
 Machine Learning Frameworks: Scikit-Learn, Statsmodels
+
 Version Control: Git, GitHub
+
 Office Tools: Advanced Excel (VLOOKUP, Pivot Tables, Graphs), PowerPoint
 
 🎓 Education
 
-Advanced Certificate Program in Data Science
-International Institute of Information Technology, Bangalore (2024)
-B.E. in Production Engineering
-PSG College of Technology, Coimbatore (2019)
+Advanced Certificate Program in Data Science International Institute of Information Technology, Bangalore (2024)
+
+B.E. in Production Engineering PSG College of Technology, Coimbatore (2019)
 
 🌐 Let's Connect
 
